@@ -17,11 +17,11 @@ API Documentation: http://wjwwood.github.com/serial/doc/1.1.0/index.html
 ### Dependencies
 
 Required:
-* [catkin](http://www.ros.org/wiki/catkin) - cmake and Python based buildsystem
+* [ament_cmake](https://index.ros.org/doc/ros2/Tutorials/Ament-CMake-Documentation/)
+* [colcon](https://index.ros.org/doc/ros2/Tutorials/Colcon-Tutorial/)
 * [cmake](http://www.cmake.org) - buildsystem
 * [Python](http://www.python.org) - scripting language
   * [empy](http://www.alcyone.com/pyos/empy/) - Python templating library
-  * [catkin_pkg](http://pypi.python.org/pypi/catkin_pkg/) - Runtime Python library for catkin
 
 Optional (for tests): 
 * [Boost](http://www.boost.org/) - Boost C++ librairies
@@ -34,7 +34,7 @@ Optional (for documentation):
 
 Get the code:
 
-    git clone https://github.com/wjwwood/serial.git
+    git clone https://github.com/sss22213/serial-ros2-dashing.git
 
 Build:
 
@@ -69,6 +69,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 William Woodall <wjwwood@gmail.com>
 John Harrison <ash.gti@gmail.com>
 
+### Modify
+sss22213 <n0404.n0404@gmail.com>
+
 ### Contact
 
-William Woodall <william@osrfoundation.org>
+sss22213 <n0404.n0404@gmail.com>
+
